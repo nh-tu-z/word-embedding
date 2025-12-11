@@ -1,6 +1,6 @@
 # Word Embedding
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HVZ8HdbWUc92zANLHpe73k9LFKcFgvbx?usp=sharing#scrollTo=zqBbs8Nxi0rZ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17d1Dj6kW_C0aYlDtoUjexto7c87ykENI?usp=sharing#scrollTo=9TnVbaH9hOgo)
 
 ## Instructor
 PhD. Nguyễn An Khương
