@@ -1,5 +1,14 @@
 # Word Embedding
 
+## Instructor
+PhD. Nguyễn An Khương
+
+## Group 13
+Ngô Hoài Tú - 2570536
+Nguyễn Hoàng Kiên - 2570435
+Trần Quốc Việt - 2570154
+Huỳnh Đức Nhâm - 2570276
+
 ## Colab: 
 - [link](https://colab.research.google.com/drive/1HVZ8HdbWUc92zANLHpe73k9LFKcFgvbx?usp=sharing#scrollTo=zqBbs8Nxi0rZ)
 
