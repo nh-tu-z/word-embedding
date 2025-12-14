@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17d1Dj6kW_C0aYlDtoUjexto7c87ykENI?usp=sharing#scrollTo=9TnVbaH9hOgo)
 
+**🎥 Google Meet Record** ([Presentation Video](https://drive.google.com/file/d/1qAj6pJLVOOwslicdetY4fBkjh9w7BhHy/view?usp=sharing))
+
 ## Instructor
 PhD. Nguyễn An Khương
 
